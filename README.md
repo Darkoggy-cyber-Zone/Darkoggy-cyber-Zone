@@ -2,11 +2,15 @@
 <h1 align="center">Hi 👋, I'm Darkoggy/Mubashir</h1>
 <h3 align="center">I'm A Web Apps Developer 💪🏻</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.imageurlgenerator.com/uploads/5aba3703-14a0-4cad-8e42-527176341d9d.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkoggy-cyber-zone&label=Profile%20views&color=0e75b6&style=flat" alt="darkoggy-cyber-zone" /> </p>
 
 - 👯 I’m looking to collaborate on **W8**
 
 - 📫 How to reach me **srmubassir20@gmail.com**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.imageurlgenerator.com/uploads/5aba3703-14a0-4cad-8e42-527176341d9d.gif">
 
 - ⚡ Fun fact **I'm So Funny**
 
