@@ -1,4 +1,28 @@
 ![logo](https://i.ibb.co.com/wNzstcwP/1782137922247.png)
+
+## 🌑 Darkoggy Cyber Zone
+
+## 🔎 Darkoggy | Cyber Security | Python Developer
+
+## 👤 Profile
+- Name: Darkoggy
+- Username: darkoggy-cyber-zone
+- Focus: Python & Cyber Security Tools
+
+## ⚡ What I Do
+- Python Automation Tools
+- Cyber Security Scripts
+- Termux Projects
+
+## 📂 Featured Work
+- Darkoggy Tools Collection
+- GitHub Automation Scripts
+- Security Utilities
+
+## 🚀 Keywords
+Darkoggy • Cyber Zone • Python Tools • GitHub Developer • Termux Tools
+
+
 <h1 align="center">Hi 👋, I'm Darkoggy/Mubashir</h1>
 <h3 align="center">I'm A Web Apps Developer 💪🏻</h3>
 
